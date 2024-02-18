@@ -6,7 +6,7 @@
 // TODO: would be nice to get the values from the config file instead
 
 #pragma region Settings
-const float noise = 5.0f;
+const float noise = 0.05f;
 const float contrast = 0.7f;
 const float brightness = 0.6f;
 #pragma endregion
